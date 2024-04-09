@@ -1,0 +1,19 @@
+.content-left-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ant-input,
+.ant-picker.ant-picker-outlined {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.ant-btn {
+  background-color: black;
+  color: white;
+  padding: 0 30px;
+}
+.content-left {
+  width: 500px;
+}
