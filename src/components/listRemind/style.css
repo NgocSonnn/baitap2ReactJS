@@ -23,7 +23,7 @@
 }
 .content-right-list__header__btn {
   border: none;
-  background-color: white;
+  background-color: transparent;
   cursor: pointer;
 }
 .today {

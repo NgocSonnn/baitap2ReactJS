@@ -19,4 +19,5 @@
   height: 700px;
   padding: 10px;
   font-size: 14px;
+  overflow-y: scroll;
 }

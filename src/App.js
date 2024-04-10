@@ -15,8 +15,8 @@ function App() {
     if (!_list.length) return;
 
     const reversedLists = _list.slice().reverse();
-    const visibleLists = reversedLists.slice(0, 9);
-    return visibleLists.map((list) => (
+    // const visibleLists = reversedLists.slice(0, 9);
+    return reversedLists.map((list) => (
       <ListRemind
         key={list.id}
         list={list}
